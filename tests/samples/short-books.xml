@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<bookshelf>
+   <book>
+      <author>Conway, Damien</author>
+      <title>Perl Best Practices</title>
+   </book>
+   <book>
+      <author>Atwood, Margaret</author>
+      <title>Oryx and Crake</title>
+   </book>
+   <leaflet>
+     <author>Wolfe, Clinton</author>
+     <title>Great Ideas I Have Had, With No Negative Unintended Consequences</title>
+   </leaflet>
+</bookshelf>
