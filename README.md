@@ -77,8 +77,8 @@ Overall, I tried to make this work somewhat similarly to `template` resource, bu
 
 ## Actions
 
-* :insert  Insert an XML payload into a file, if it is not already present
-* :replace Replace an XPath value with another value, if different
+* :insert  (default) Insert an XML payload into a file
+* :replace Replace an XPath value with another value
 * :delete  Delete the matched nodes.
 
 ## Attribute Parameters

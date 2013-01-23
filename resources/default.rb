@@ -7,3 +7,7 @@ attribute :only_if_xpath, :kind_of => String, :required => false
 attribute :not_if_xpath, :kind_of => String, :required => false
 attribute :backups, :kind_of => Integer, :required => false, :default => 5
 
+def initialize(*args)
+  super
+  @action = :insert
+end
