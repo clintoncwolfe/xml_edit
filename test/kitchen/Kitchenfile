@@ -1,0 +1,5 @@
+# -*-ruby-*-
+cookbook "xml_edit" do
+  lint(:ignore => ["FC017"])
+  configuration "basics"
+end
